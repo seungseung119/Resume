@@ -1,6 +1,7 @@
 #한림대학교 소프트웨어융합대학
 ---
 ![이력서 사진](mail.naver.jpg)
+<img src=mail.naver.jpg height=100 weidth=100>
 이승주
 <2001.01.19>
 ---
