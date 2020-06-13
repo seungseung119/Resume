@@ -3,7 +3,9 @@
 <img src=mail.naver.jpg height=120 weidth=120>
 이승주
 <2001.01.19>   
+
 ---      
+
 소속 : 데이터과학융합스쿨         
 
 
