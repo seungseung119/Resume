@@ -53,5 +53,4 @@
 
 한림대학교 데이터과학융합스쿨: [데이터테크전공][google], [디지털금융정보전공][google]
 
-[google]:https://www.hallym.ac.kr/hallym_univ/sub01/cP12/sCP12.html
-[google]:https://www.hallym.ac.kr/hallym_univ/sub01/cP12/sCP14.html
+[google]:https://www.hallym.ac.kr/hallym_univ/sub01/cP12/sCP12.html, [google]:https://www.hallym.ac.kr/hallym_univ/sub01/cP12/sCP14.html
