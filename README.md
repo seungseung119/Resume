@@ -49,3 +49,8 @@
 * 경영지도사 자격증   
 * **데이터분석**
 * 디지털정보활용능력(DIAT)
+
+
+한림대학교 데이터과학융합스쿨 : [데이터테크전공][google]
+
+[google] : https://www.hallym.ac.kr/hallym_univ/sub01/cP12/sCP12.html
